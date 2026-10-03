@@ -19,7 +19,7 @@ jobs:
         with:
           server: ftp-jetecnologia.alwaysdata.net # Change if using another host
           username: jetecnologia
-          password: Jerson123
+          password: jerson123
           server-dir: www/ # Replace with your correct path
           protocol: ftps
           timeout: 86400000
